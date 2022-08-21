@@ -1,2 +1,3 @@
 # Javascript
-um pouco de pratica com Js
+Um pouco da minha experiência prática com JS,
+Manipulação e interação com DOM,funções etc...
